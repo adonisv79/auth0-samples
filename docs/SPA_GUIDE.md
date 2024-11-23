@@ -1,5 +1,7 @@
 # AUTH0 Single Page Apps
 
+[> Back](/README.md)
+
 Auth0 makes it easy to authenticate for Single Page Apps. Technically, the web client will sign-in to Auth0 directly (no need for a server from your end). Of course this will do nothing much as your goal is to utilize this access to identify against your secured backend. To prepare for this sample, go to the `spa-client` folder. Copy the `.env.sample` file and just name it `.env`. After that go to `spa-server` project and do the same.
 
 ## Auth0 Client Application

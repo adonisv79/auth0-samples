@@ -10,3 +10,5 @@ You first need an Auth0 account. https://manage.auth0.com
 
 * Single Page Apps (React, Vue, Angular etc) - this sample shows a simple ReactJS Single Page app authentication.
   * spa-client - this is the ReactJS client project. 
+  * spa-serve - this is the ReactJS client project. 
+  Full guid is in the [SPA Guide](/docs/SPA_GUIDE.md)
