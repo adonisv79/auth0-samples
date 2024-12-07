@@ -1,8 +1,10 @@
-# AUTH0 Single Page Apps
-
 [> Back](/README.md)
 
+# AUTH0 Single Page Apps
+
 Auth0 makes it easy to authenticate for Single Page Apps. Technically, the web client will sign-in to Auth0 directly (no need for a server from your end). Of course this will do nothing much as your goal is to utilize this access to identify against your secured backend. To prepare for this sample, go to the `spa-client` folder. Copy the `.env.sample` file and just name it `.env`. After that go to `spa-server` project and do the same.
+
+Note that this guide sets up your dev environment. When using social media authentications like Google Auth, you will need to get your own developer keys and not use the ones provided by Auth0. These are just dev key and can be unsafe in production environments. for more details on this, see https://auth0.com/docs/authenticate/identity-providers/social-identity-providers/devkeys 
 
 ## Auth0 Client Application
 
