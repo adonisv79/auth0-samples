@@ -8,7 +8,7 @@ Before going to the [SPA Guide](/docs/SPA_GUIDE.md), you need to setup your loca
 
 ## Step1: Create your app
 
-First you need to have your app set and running. A quick way is to use [VITE](https://vite.dev/guide/) which allows creating Angular, React, Vuew and more.
+First you need to have your app set and running. A quick way is to use [VITE](https://vite.dev/guide/) which allows creating Angular, React, Vue and more.
 
 ```
 npm create vite@latest my-react-app -- --template react
@@ -59,3 +59,4 @@ We basically just reuse the react hook `useAuth0`. Copy Auth0 implementations in
 ## Step 5: Create your AUTH0 project and update the `.env` config
 
 We are now ready for making the SPA client authentication work grasshopper. Go to [SPA Guide](/docs/SPA_GUIDE.md)
+make sure to have [setup your api server](/spa-server/README.md) as well before doing so
